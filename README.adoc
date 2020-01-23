@@ -1,0 +1,4 @@
+= NativeScript PDFView Sample with Vue
+
+This repository contains a litle sample to demonstrate the use of the https://github.com/madmas/nativescript-pdf-view[nativescript-pdf-view] plugin.
+
